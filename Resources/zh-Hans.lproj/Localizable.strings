@@ -1,0 +1,417 @@
+/* App / toolbar */
+"Open Photos" = "打开照片";
+"Save Metadata" = "保存元数据";
+"Open" = "打开";
+"Import Folder" = "导入文件夹";
+"Save All" = "全部保存";
+"Settings" = "设置";
+"Toggle Presets Panel" = "切换预设面板";
+
+/* Generic actions */
+"Cancel" = "取消";
+"Apply" = "应用";
+"Done" = "完成";
+"Save" = "保存";
+"Edit" = "编辑";
+"Delete" = "删除";
+"Rename" = "重命名";
+"Add" = "添加";
+"Close" = "关闭";
+"Reload" = "重新加载";
+"Undo" = "撤销";
+"Revert" = "还原";
+"Clear" = "清除";
+"Choose" = "选择";
+"Set Time" = "设置日期与时间";
+
+/* Main window */
+"Open or drop photos or folders to edit their metadata" = "打开或拖入照片或文件夹以编辑其元数据";
+"Unsaved changes" = "有未保存的更改";
+"Open in Preview" = "用预览打开";
+"Remove from list" = "从列表中移除";
+
+/* Batch editor / auto-number */
+"Auto Frame Numbers" = "自动画面编号";
+"Start at" = "起始编号";
+"Apply to Selection" = "应用到所选项";
+"Apply & Save All" = "应用并全部保存";
+"Order by" = "排序方式";
+"Direction" = "顺序";
+"Ascending" = "升序";
+"Descending" = "降序";
+"Preview" = "预览";
+"File Name" = "文件名";
+"Capture Time" = "拍摄日期与时间";
+
+/* Field labels */
+"Aperture" = "光圈";
+"Shutter Speed" = "快门速度";
+"Exposure Bias" = "曝光补偿";
+"Exposure Program" = "曝光模式";
+"White Balance" = "白平衡";
+"Metering Mode" = "测光模式";
+"Average" = "平均测光";
+"Center-Weighted Average" = "中央重点平均测光";
+"Spot" = "点测光";
+"Multi-Spot" = "多点测光";
+"Pattern" = "评价测光";
+"Partial" = "部分测光";
+"Focal Length" = "焦距";
+"35mm Equivalent Focal Length" = "35 mm 等效焦距";
+"Location" = "位置";
+"Latitude, Longitude" = "纬度, 经度";
+"Altitude" = "海拔";
+"Rating" = "评分";
+"Map" = "地图";
+"Clear Location" = "清除位置";
+"Rotate" = "旋转";
+"Clear Section" = "清除本节";
+"Generate Copyright" = "生成版权信息";
+"Photographer" = "摄影师";
+"Copyright" = "版权";
+"Camera Make" = "相机品牌";
+"Camera Model" = "相机型号";
+"Lens Make" = "镜头品牌";
+"Lens Model" = "镜头型号";
+"Lens Serial Number" = "镜头序列号";
+"Lens Specification" = "镜头规格";
+"Camera Serial Number" = "相机序列号";
+"Camera Firmware" = "相机固件";
+"Camera Owner Name" = "相机所有者姓名";
+"Manufacturer" = "制造商";
+"Name" = "名称";
+"Film Type" = "胶片类型";
+"Format" = "画幅";
+"ISO" = "ISO 感光度";
+"DX Code" = "DX 编码";
+"Film Batch" = "胶片批次";
+"Emulsion Number" = "乳剂编号";
+"Base" = "片基";
+"Film Grain" = "胶片颗粒";
+
+/* File */
+"File Source" = "文件来源";
+"Is Film Photo" = "是否为胶片照片";
+"Others" = "其他";
+"Film Scanner" = "胶片扫描仪";
+"Reflection Print Scanner" = "反射式扫描仪";
+"Digital Still Camera" = "数码相机";
+"Yes" = "是";
+"No" = "否";
+
+/* Roll */
+"Roll ID" = "胶卷编号";
+"Frame Number" = "画面编号";
+"Exposure ISO" = "拍摄感光度";
+"Total Frame Count" = "画面总数";
+"Loaded Date" = "装入日期与时间";
+"Finished Date" = "拍完日期与时间";
+"Development Batch" = "冲洗批次";
+
+/* Development */
+"Process" = "冲洗工艺";
+"Developer" = "显影剂";
+"Developer Manufacturer" = "显影剂品牌";
+"Developer Dilution" = "显影剂稀释比例";
+"Development Time" = "冲洗日期与时间";
+"Development Duration" = "显影时长";
+"Development Temperature" = "显影温度";
+"Push/Pull" = "增/减感";
+"Bleach" = "漂白剂";
+"Fixer" = "定影剂";
+"Stabilizer" = "稳定剂";
+"Replenishment" = "补充液";
+"Chemistry Notes" = "药水备注";
+
+/* Lab */
+"Lab Name" = "冲印店名称";
+"Lab Address" = "冲印店地址";
+"Lab Contact" = "冲印店联系方式";
+"Lab Notes" = "冲印店备注";
+
+/* Scanning */
+"Scanner Make" = "扫描仪品牌";
+"Scanner Model" = "扫描仪型号";
+"Scanner Serial Number" = "扫描仪序列号";
+"Scanner Software" = "扫描软件";
+"Scan Resolution" = "扫描分辨率";
+"Bit Depth" = "位深";
+"Color Space" = "色彩空间";
+"Scan Type" = "扫描类型";
+"Scan Date" = "扫描日期与时间";
+"Dust Removal" = "除尘";
+"Infrared Cleaning" = "红外除尘";
+"Scan Notes" = "扫描备注";
+
+/* Section / group titles */
+"Basics" = "基本信息";
+"File" = "文件";
+"Photographer & Copyright" = "摄影师与版权";
+"Camera & Lens" = "相机与镜头";
+"Film" = "胶片";
+"Film ISO" = "胶片感光度";
+"Roll" = "胶卷";
+"Development" = "冲洗";
+"Lab" = "冲印店";
+"Scanning" = "扫描";
+"Notes" = "备注";
+"Custom Fields" = "自定义字段";
+
+/* Map picker */
+"Click the map to drop a pin" = "点击地图以放置图钉";
+"Clear Pin" = "移除";
+"Use Current Location" = "使用当前位置";
+"Zoom In" = "放大";
+"Zoom Out" = "缩小";
+"Search for a place" = "搜索地点";
+"No matching place found." = "未找到匹配的地点。";
+
+/* Raw EXIF */
+"Raw EXIF" = "原始 EXIF";
+"Editing here writes directly to the file. Values that can't be parsed back into a valid tag may be ignored." = "在此处编辑会直接写入文件。无法解析为有效标签的值可能会被忽略。";
+"No raw EXIF/TIFF metadata found in this file." = "此文件中未找到原始 EXIF/TIFF 元数据。";
+"Not editable here" = "此处不可编辑";
+
+
+/* Presets */
+"Presets" = "预设";
+"No presets yet" = "暂无预设";
+"Manage Presets" = "管理预设";
+"Preset name" = "预设名称";
+"Untitled Preset" = "未命名预设";
+"Double-click to rename" = "双击以重命名";
+"Copy Current Values" = "复制当前值";
+"No fields added yet" = "尚未添加字段";
+"Key" = "键";
+"Value" = "值";
+"Custom Field" = "自定义字段";
+"Select a preset to edit" = "选择一个预设进行编辑";
+"or create a new one with the + button" = "或点击 + 按钮创建新预设";
+"Clear rating" = "清除评分";
+"New Camera" = "新建相机";
+"New Lens" = "新建镜头";
+"New Film" = "新建胶片";
+"New Development" = "新建冲洗";
+"New Lab" = "新建冲印店";
+"New Scanning" = "新建扫描";
+"New Photographer" = "新建摄影师";
+"New Shooting Parameters" = "新建拍摄参数";
+
+/* Preset categories */
+"Camera Body" = "相机机身";
+"Lens" = "镜头";
+"Shooting Parameters" = "拍摄参数";
+
+/* Settings */
+"General" = "通用";
+"Lab Information" = "冲印店信息";
+"Saving" = "保存";
+"Fields" = "字段";
+"Reset to Default" = "恢复默认设置";
+"Choose which properties appear in the editor. Hiding a field never changes its stored value." = "选择要在编辑区显示的属性。隐藏字段不会更改其已保存的值。";
+"Appearance" = "外观";
+"Display Mode" = "显示模式";
+"System" = "跟随系统";
+"Light" = "浅色";
+"Dark" = "深色";
+"Thumbnail Size" = "缩略图大小";
+"Small" = "小";
+"Medium" = "中";
+"Large" = "大";
+"Language" = "语言";
+"Changing language requires restarting EZ Exif." = "更改语言需要重新启动 EZ Exif。";
+"Restart Required" = "需要重新启动";
+"Restart Now" = "立即重启";
+"Later" = "稍后";
+"EZ Exif needs to restart for the new language to take effect." = "EZ Exif 需要重新启动才能使新语言生效。";
+"Defaults" = "默认值";
+"Apply the following fields to new imports" = "对新导入的照片应用以下字段";
+"Camera" = "相机";
+"None" = "无";
+"Safety" = "安全";
+"Warn before quitting with unsaved changes" = "有未保存的更改时退出前警告";
+"Unsaved Changes" = "有未保存的更改";
+"Some photos have unsaved metadata changes. Quit anyway?" = "部分照片的元数据尚未保存。仍要退出吗？";
+"Quit Anyway" = "仍要退出";
+"Image Quality" = "图像质量";
+"Image Save Quality" = "图片保存质量";
+"Applies to JPEG and HEIC. TIFF and PNG are lossless and always saved at full quality." = "适用于 JPEG 和 HEIC。TIFF 和 PNG 是无损格式，始终以完整质量保存。";
+"Low" = "低";
+"High" = "高";
+"Backups" = "备份";
+"Generate backup files .bak when saving" = "保存时生成 .bak 备份文件";
+"Save Location" = "保存位置";
+"Overwrite the original file" = "覆盖原文件";
+"Save a copy to a folder" = "将副本保存到文件夹";
+"No folder chosen" = "未选择文件夹";
+
+/* Errors */
+"Could not open the image file." = "无法打开图像文件。";
+"Could not create an output file." = "无法创建输出文件。";
+"Could not decode the image data." = "无法解码图像数据。";
+"Could not write metadata back to the file." = "无法将元数据写回文件。";
+"Fix the highlighted fields before saving." = "请先修正高亮的字段再保存。";
+
+/* Field option values */
+"FilmType_ColorNegative" = "彩色负片";
+"FilmType_ColorReversal" = "彩色反转片";
+"FilmType_BWNegative" = "黑白负片";
+"FilmType_BWReversal" = "黑白反转片";
+"FilmType_Instant" = "拍立得";
+
+"PushPull_Standard" = "标准";
+
+"ExposureProgram_Manual" = "手动";
+"ExposureProgram_ProgramAE" = "程序自动曝光";
+"ExposureProgram_AperturePriority" = "光圈优先";
+"ExposureProgram_ShutterPriority" = "快门优先";
+"ExposureProgram_Creative" = "创意程序";
+"ExposureProgram_Action" = "运动模式";
+"ExposureProgram_Portrait" = "人像模式";
+"ExposureProgram_Landscape" = "风景模式";
+"ExposureProgram_Bulb" = "慢门（B门）";
+
+"WhiteBalance_Auto" = "自动";
+"WhiteBalance_Manual" = "手动";
+
+"MeteringMode_Average" = "平均测光";
+"MeteringMode_CenterWeighted" = "中央重点平均测光";
+"MeteringMode_Spot" = "点测光";
+"MeteringMode_MultiSpot" = "多点测光";
+"MeteringMode_Pattern" = "矩阵测光";
+"MeteringMode_Partial" = "局部测光";
+
+"FileSource_Others" = "其他";
+"FileSource_FilmScanner" = "胶片扫描仪";
+"FileSource_ReflectionScanner" = "反射稿扫描仪";
+"FileSource_DigitalStillCamera" = "数码相机";
+
+"FilmPhoto_Yes" = "是";
+"FilmPhoto_No" = "否";
+
+/* Help window */
+"EZ Exif Help" = "EZ Exif 帮助";
+"A guide to editing metadata on scanned film photos." = "编辑扫描胶片照片元数据的指南。";
+"Getting Started" = "快速上手";
+"**Open** (⌘O) a photo, or drag files or a whole folder onto the window. A dragged/imported folder's photos are grouped into a folder in the sidebar, subfolders and all — expand a subfolder to see (and load) what's inside it." = "**打开**（⌘O）一张照片，或者把文件、整个文件夹拖到窗口里。拖入/导入的文件夹里的照片会在侧边栏中归入对应的文件夹，子文件夹也一样——展开子文件夹即可查看（并加载）其中的内容。";
+"Select one photo to edit its fields individually, or select several to edit shared fields across all of them at once." = "选中一张照片可以单独编辑它的字段；选中多张照片则可以同时编辑它们共有的字段。";
+"Right-click a photo (or a whole folder) in the sidebar to remove it from the list or reload it from disk — a folder's menu acts on every photo inside it, including its subfolders." = "在侧边栏中右键点击一张照片（或整个文件夹），可以将其从列表中移除，或从磁盘重新加载——对文件夹执行操作会作用于其中的所有照片，包括子文件夹里的。";
+"Supported formats: JPEG, TIFF, PNG, and HEIC." = "支持的格式：JPEG、TIFF、PNG 和 HEIC。";
+"Editing Fields" = "编辑字段";
+"Fields are grouped into sections — Basics, File, Photographer & Copyright, Camera & Lens, Film, Roll, Development, Lab, Scanning, and Notes. See the Field Reference below for what each one means." = "字段按区块分组——基本信息、文件、摄影师与版权、相机与镜头、胶片、卷、冲洗、冲印店、扫描，以及备注。每个字段的具体含义见下方的字段参考表。";
+"Each section header has a “×” button that clears every field **currently shown** in that section — a field you've hidden is never touched." = "每个区块的标题栏都有一个“×”按钮，用于清空该区块中**当前显示**的所有字段——被隐藏的字段不受影响。";
+"Setting **File Source** to “Digital Still Camera” disables Scanning; setting **Is Film Photo** to “No” disables Film, Roll, Development, and Lab — since those stop being relevant." = "把**文件来源**设为“数码相机”会禁用扫描区块；把**是否为胶片照片**设为“否”会禁用胶片、卷、冲洗和冲印店区块——因为这些字段已不再适用。";
+"An orange dot next to a field (or a photo's thumbnail) means it has unsaved changes." = "字段（或照片缩略图）旁边的橙色圆点表示有未保存的更改。";
+"With several photos selected, a field left blank shows the value they all already share as a placeholder — type over it to set that value for the whole selection, or leave it as-is to keep each photo's own." = "选中多张照片时，如果某个字段留空，会以占位符的形式显示它们共有的值——直接输入即可将该值应用到整个选区，保持留空则各照片仍保留各自原有的值。";
+"The rotate button (⟳) above the sidebar preview turns the selected photo 90° at a time without touching its pixel data, the same lossless rotation any photo viewer uses — an orange dot appears next to it until saved, and it's covered by Undo/Revert like any other edit." = "侧边栏预览图上方的旋转按钮（⟳）每次将选中的照片旋转 90°，不会改动像素数据本身，和任何看图软件的无损旋转原理一样——保存前旁边会显示橙色圆点，也和其他编辑一样受“撤销”/“还原”控制。";
+"The Location map picker has zoom buttons and a place search box, alongside the usual click-to-drop-pin and “Use Current Location.”" = "位置字段的地图选择器新增了缩放按钮和地点搜索框，此外还保留了原有的点击放置图钉和“使用当前位置”功能。";
+"Customizing What You See" = "自定义显示内容";
+"Settings → Fields lets you show or hide any field — hiding one never changes its stored value, it just declutters the editor." = "在“设置 → 字段”中可以显示或隐藏任意字段——隐藏字段不会改变它已存储的值，只是让编辑界面更简洁。";
+"Development Temperature and Aperture each have their own display-format toggle (°C/°F; plain number vs. “f/2.8”) right next to their visibility switch." = "冲洗温度和光圈各自都有独立的显示格式开关（摄氏度/华氏度；纯数字 vs. “f/2.8”），就在它们各自的显示/隐藏开关旁边。";
+"Presets" = "预设";
+"Save reusable Photographer, Shooting Parameters, Camera, Lens, Film, Development, Lab, or Scanning presets from the panel on the right (toggle it with the sidebar icon in the toolbar), and apply one with a single click." = "可以在右侧面板（用工具栏上的侧边栏图标切换显示）中保存可重复使用的摄影师、拍摄参数、相机、镜头、胶片、冲洗、冲印店或扫描预设，点一下即可套用。";
+"Right-click a preset in Settings → Presets to rename or delete it." = "在“设置 → 预设”中右键点击某个预设，可以重命名或删除它。";
+"A Shooting Parameters preset covers ISO, Aperture, Shutter Speed, Exposure Bias, Exposure Program, White Balance, and Metering Mode by default; 35mm Equivalent Focal Length can be added to it as well." = "拍摄参数预设默认包含 ISO、光圈、快门速度、曝光补偿、曝光模式、白平衡和测光模式；35 mm 等效焦距也可以添加进去。";
+"Choosing a Film preset's Manufacturer and Name from the built-in film stock database automatically fills in Film Type, Film ISO, and Process." = "在胶片预设中从内置胶片数据库选择厂商和名称，会自动填充胶片类型、胶片 ISO 和冲洗工艺。";
+"Applying a preset skips any field whose section is currently disabled (see File Source/Is Film Photo above), the same as if you'd typed into it by hand." = "套用预设时，会跳过所有当前被禁用区块中的字段（参见上文的文件来源/是否为胶片照片），效果和你手动输入时一样。";
+"Settings → General → Defaults can apply a Shooting Parameters, Camera, Lens, or Film preset to every new import automatically — each one (and Photographer/Copyright) has its own on/off switch, and a preset only lands if every field it covers is still empty, so real EXIF data already in a file is never overwritten." = "“设置 → 通用 → 默认值”可以为每次新导入的照片自动套用拍摄参数、相机、镜头或胶片预设——每一项（以及摄影师/版权）都有自己独立的开关，并且只有当该预设涉及的所有字段都仍为空时才会套用，因此文件中已有的真实 EXIF 数据永远不会被覆盖。";
+"Saving" = "保存";
+"**Save** (⌘S) writes one photo's metadata back into the file itself. **Save All** (toolbar) does the same for every photo with unsaved changes." = "**保存**（⌘S）会把一张照片的元数据写回文件本身。**全部保存**（工具栏）会对所有有未保存更改的照片执行同样的操作。";
+"Settings → Saving keeps a `.bak` backup of the original before overwriting it by default (toggle it off there), or can save edited copies to a separate folder instead of touching the originals." = "默认情况下，“设置 → 保存”会在覆盖原文件之前保留一份 `.bak` 备份（可在那里关闭这项功能），也可以改为把编辑后的副本保存到单独的文件夹，不动原文件。";
+"Settings → Saving also has an Image Save Quality slider (Low to High, 7 steps) — every save re-encodes the image, so a lower step trades some quality for a smaller file, while the default (High) stays as close to the original as a re-encode can get. Only matters for lossy formats (JPEG, HEIC); TIFF and PNG ignore it since they're lossless." = "“设置 → 保存”里还有一个图片保存质量滑块（低到高，共 7 档）——每次保存都会重新编码图像，档位越低文件越小但画质也会相应降低，默认档位（高）会尽量贴近原图，这是重新编码所能达到的最接近原图的效果。这项设置只对有损格式（JPEG、HEIC）有意义，TIFF 和 PNG 是无损格式，会忽略此设置。";
+"**Undo** (⌘Z) steps back one field-edit at a time; applying a preset or using Revert counts as a single undo step." = "**撤销**（⌘Z）每次后退一步字段编辑；套用预设或使用“还原”都算作一次撤销步骤。";
+"Compatibility" = "兼容性";
+"Camera, lens, and capture info are mirrored into standard EXIF tags any photo app can read." = "相机、镜头和拍摄信息会同步写入标准 EXIF 标签，任何看图软件都能读取。";
+"Film-specific fields (stock, development, lab, scanner) are also mirrored into the original AnalogExif namespace, so AnalogExif-aware tools can read them too." = "胶片相关的专属字段（胶片型号、冲洗、冲印店、扫描仪）也会同步写入原始 AnalogExif 命名空间，支持 AnalogExif 的工具同样可以读取。";
+"Opening a file already tagged by AnalogExif, a RetroExif-style tool, or Microsoft's lens-info schema is supported — their data shows up instead of appearing blank." = "打开已经被 AnalogExif、RetroExif 类工具或 Microsoft 镜头信息架构标记过的文件也是支持的——它们的数据会正常显示，而不是显示为空。";
+"Field Reference" = "字段参考";
+"What every editable field means, grouped the same way the editor groups them." = "每个可编辑字段的含义说明，分组方式与编辑器中的一致。";
+"The ISO the shot was actually exposed at (standard EXIF) — can differ from the film's own box speed if pushed or pulled." = "实际拍摄时使用的 ISO（标准 EXIF）——如果进行了增感或减感冲洗，可能与胶片本身的标称感光度不同。";
+"The f-stop the lens was set to." = "镜头设置的光圈值。";
+"The exposure time, e.g. “1/125 s”." = "曝光时间，例如“1/125 s”。";
+"Exposure compensation applied, in EV." = "所使用的曝光补偿量，单位为 EV。";
+"The lens's focal length for this shot." = "这张照片所使用的镜头焦距。";
+"The focal length re-expressed as its 35mm/full-frame equivalent — hidden by default." = "换算成 35 mm/全画幅等效值后的焦距——默认隐藏。";
+"The camera's exposure mode (Manual, Aperture Priority, etc.)." = "相机的曝光模式（手动、光圈优先等）。";
+"Auto or Manual white balance." = "自动或手动白平衡。";
+"How the camera measured exposure (Spot, Pattern, etc.)." = "相机测光的方式（点测光、矩阵测光等）。";
+"The date and time the photo was taken." = "拍摄这张照片的日期和时间。";
+"GPS latitude/longitude of where the photo was taken." = "拍摄地点的 GPS 经纬度。";
+"GPS altitude, in meters." = "GPS 海拔高度，单位为米。";
+"A 0–5 star rating for the photo." = "这张照片的星级评分，0 到 5 星。";
+"The standard EXIF “FileSource” tag — Film Scanner, Reflection Print Scanner, Digital Still Camera, or Others." = "标准 EXIF 的“FileSource”标签——胶片扫描仪、反射稿扫描仪、数码相机，或其他。";
+"Whether the original scene was captured on film at all — independent of File Source, since a digital camera can still be photographing a film print or negative." = "原始场景是否是用胶片拍摄的——这与文件来源无关，因为数码相机也可能是在翻拍一张胶片相纸或底片。";
+"The photographer's name." = "摄影师的姓名。";
+"A copyright notice for the photo." = "这张照片的版权声明。";
+"The camera's manufacturer." = "相机的制造商。";
+"The camera's model." = "相机的型号。";
+"The camera body's serial number." = "相机机身的序列号。";
+"The camera's firmware version." = "相机的固件版本。";
+"The camera's registered owner." = "相机的注册所有者。";
+"The lens's manufacturer." = "镜头的制造商。";
+"The lens's model." = "镜头的型号。";
+"The lens's serial number." = "镜头的序列号。";
+"The lens's focal length and aperture range, e.g. “24-70mm f/2.8”." = "镜头的焦距和光圈范围，例如“24-70mm f/2.8”。";
+"The film stock's manufacturer, e.g. Kodak." = "胶片的制造商，例如 Kodak。";
+"The film stock's name, e.g. Portra 400." = "胶片的名称，例如 Portra 400。";
+"The film's color/process type (Color Negative, Black & White, etc.) — distinct from Format." = "胶片的色彩/工艺类型（彩色负片、黑白等）——与“格式”是不同的概念。";
+"The film's physical size, e.g. 35, 120, 4x5." = "胶片的物理规格，例如 35、120、4x5。";
+"The film stock's own box speed — distinct from “ISO” in Basics, which is what it was actually shot at." = "胶片本身包装上标注的标称感光度——与“基本信息”里的“ISO”（实际拍摄时使用的感光度）是不同的概念。";
+"The film's DX barcode identifier." = "胶片的 DX 条形码标识。";
+"The manufacturing batch/lot the film came from." = "胶片所属的生产批次/批号。";
+"The specific emulsion run number." = "具体的乳剂生产编号。";
+"The film base material, e.g. polyester, acetate." = "胶片片基材料，例如涤纶、醋酸纤维。";
+"Notes on the film's grain characteristics." = "关于胶片颗粒特性的备注。";
+"An identifier for this specific roll of film." = "这一卷胶片的标识编号。";
+"This photo's position within the roll." = "这张照片在这一卷胶片中的位置。";
+"How many frames the whole roll holds, e.g. 36." = "整卷胶片一共有多少张，例如 36。";
+"The ISO the roll was actually metered/shot at, if different from the film's box speed — e.g. a box-400 film shot at 800." = "如果与胶片标称感光度不同，这一卷实际测光/拍摄时使用的 ISO——例如标称 400 的胶片按 800 拍摄。";
+"When the roll was loaded into the camera." = "这卷胶片装入相机的日期与时间。";
+"When the last frame was shot or the roll was rewound." = "拍完最后一张或倒卷的日期与时间。";
+"An identifier tying this roll to a specific development session." = "把这卷胶片与某一次具体冲洗操作关联起来的标识。";
+"The chemical process used, e.g. C-41, E-6, B&W." = "所使用的化学冲洗工艺，例如 C-41、E-6、黑白。";
+"The developer chemical used." = "所使用的显影药水。";
+"The developer's manufacturer." = "显影药水的制造商。";
+"The dilution ratio used, e.g. 1+1." = "所使用的稀释比例，例如 1+1。";
+"When the roll was developed." = "这卷胶片冲洗的日期与时间。";
+"How long development took." = "冲洗所花费的时长。";
+"The temperature development was carried out at." = "冲洗时所使用的温度。";
+"Stops pushed (+) or pulled (−) from box speed; “Standard” means none." = "相对标称感光度增感（+）或减感（−）的档数；“标准”表示不增减感。";
+"Notes on the bleach step, for processes that use one (e.g. C-41)." = "关于漂白步骤的备注，适用于含漂白工序的工艺（例如 C-41）。";
+"The fixer chemical used." = "所使用的定影药水。";
+"The stabilizer/final-rinse chemical used." = "所使用的稳定剂/最终水洗药水。";
+"Notes on chemistry replenishment." = "关于药水补充的备注。";
+"Any other notes about the chemistry used." = "关于所用药水的其他备注。";
+"The name of the lab that processed or scanned the film." = "冲洗或扫描这卷胶片的冲印店名称。";
+"The lab's address." = "冲印店的地址。";
+"Contact info for the lab." = "冲印店的联系方式。";
+"Any other notes about the lab." = "关于这家冲印店的其他备注。";
+"The scanner's manufacturer." = "扫描仪的制造商。";
+"The scanner's model." = "扫描仪的型号。";
+"The scanner's serial number." = "扫描仪的序列号。";
+"The software used to drive the scan." = "驱动扫描所使用的软件。";
+"The resolution the film was scanned at, e.g. 4000 dpi." = "扫描这卷胶片时所使用的分辨率，例如 4000 dpi。";
+"The color bit depth of the scan." = "扫描文件的色彩位深。";
+"The color space the scan was saved in." = "扫描文件保存所使用的色彩空间。";
+"Whether the scan is of a positive, negative, or print." = "扫描的对象是正片、负片，还是相纸照片。";
+"When the scan was made." = "扫描操作的日期与时间。";
+"Whether automated dust removal was applied." = "是否使用了自动除尘功能。";
+"Whether infrared-based defect cleaning was applied." = "是否使用了基于红外线的缺陷修复功能。";
+"Any other notes about the scan." = "关于这次扫描的其他备注。";
+"Freeform notes about the photo, not tied to any other specific field." = "关于这张照片的自由备注，不属于任何其他特定字段。";
+"Keyboard Shortcuts" = "键盘快捷键";
+"Open photos or a folder" = "打开照片或文件夹";
+"Import a folder specifically" = "专门导入一个文件夹";
+"Save the selected photo(s)" = "保存选中的照片";
+"Undo the last field edit" = "撤销上一次字段编辑";
+"Open Settings" = "打开设置";
+
+/* Menu titles built around the app's name */
+"About %@" = "关于%@";
+"%@ Help" = "%@ 帮助";
+
+/* Development Process options */
+"Process_C41" = "C-41";
+"Process_E6" = "E-6";
+"Process_BW" = "黑白";
+"Process_ECN2" = "ECN-2";

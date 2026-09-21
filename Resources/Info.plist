@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>FilmExif</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.haochenzhang.filmexif</string>
+	<key>CFBundleName</key>
+	<string>EZ Exif</string>
+	<key>CFBundleDisplayName</key>
+	<string>EZ Exif</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 Haochen Zhang.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>EZ Exif uses your current location to help you place photos on the map.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>EZ Exif uses your current location to help you place photos on the map.</string>
+	<!-- Without an explicit usage description, macOS can silently skip
+	     files inside these protected folders during a recursive import
+	     (e.g. a subfolder several levels under ~/Desktop) instead of
+	     showing the permission prompt at all — declaring the reason here
+	     is what makes that prompt actually fire. -->
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>EZ Exif needs access to your Desktop folder to import photos and their subfolders stored there.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>EZ Exif needs access to your Documents folder to import photos and their subfolders stored there.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>EZ Exif needs access to your Downloads folder to import photos and their subfolders stored there.</string>
+	<key>NSRemovableVolumesUsageDescription</key>
+	<string>EZ Exif needs access to removable volumes to import photos and their subfolders stored there.</string>
+	<key>NSNetworkVolumesUsageDescription</key>
+	<string>EZ Exif needs access to network volumes to import photos and their subfolders stored there.</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.photography</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>zh-Hans</string>
+		<string>es</string>
+	</array>
+</dict>
+</plist>

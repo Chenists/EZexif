@@ -1,0 +1,417 @@
+/* App / toolbar */
+"Open Photos" = "Abrir fotos";
+"Save Metadata" = "Guardar metadatos";
+"Open" = "Abrir";
+"Import Folder" = "Importar carpeta";
+"Save All" = "Guardar todo";
+"Settings" = "Ajustes";
+"Toggle Presets Panel" = "Alternar panel de preajustes";
+
+/* Generic actions */
+"Cancel" = "Cancelar";
+"Apply" = "Aplicar";
+"Done" = "Listo";
+"Save" = "Guardar";
+"Edit" = "Editar";
+"Delete" = "Eliminar";
+"Rename" = "Cambiar nombre";
+"Add" = "Añadir";
+"Close" = "Cerrar";
+"Reload" = "Recargar";
+"Undo" = "Deshacer";
+"Revert" = "Revertir";
+"Clear" = "Borrar";
+"Choose" = "Elegir";
+"Set Time" = "Establecer hora";
+
+/* Main window */
+"Open or drop photos or folders to edit their metadata" = "Abre o arrastra fotos o carpetas para editar sus metadatos";
+"Unsaved changes" = "Cambios sin guardar";
+"Open in Preview" = "Abrir en Vista Previa";
+"Remove from list" = "Quitar de la lista";
+
+/* Batch editor / auto-number */
+"Auto Frame Numbers" = "Numeración automática de tomas";
+"Start at" = "Empezar en";
+"Apply to Selection" = "Aplicar a la selección";
+"Apply & Save All" = "Aplicar y guardar todo";
+"Order by" = "Ordenar por";
+"Direction" = "Dirección";
+"Ascending" = "Ascendente";
+"Descending" = "Descendente";
+"Preview" = "Vista previa";
+"File Name" = "Nombre de archivo";
+"Capture Time" = "Hora de captura";
+
+/* Field labels */
+"Aperture" = "Apertura";
+"Shutter Speed" = "Velocidad de obturación";
+"Exposure Bias" = "Compensación de exposición";
+"Exposure Program" = "Modo de exposición";
+"White Balance" = "Balance de blancos";
+"Metering Mode" = "Modo de medición";
+"Average" = "Promedio";
+"Center-Weighted Average" = "Promedio ponderado al centro";
+"Spot" = "Puntual";
+"Multi-Spot" = "Multipuntual";
+"Pattern" = "Matricial";
+"Partial" = "Parcial";
+"Focal Length" = "Distancia focal";
+"35mm Equivalent Focal Length" = "Distancia focal equivalente a 35 mm";
+"Location" = "Ubicación";
+"Latitude, Longitude" = "Latitud, longitud";
+"Altitude" = "Altitud";
+"Rating" = "Valoración";
+"Map" = "Mapa";
+"Clear Location" = "Borrar ubicación";
+"Rotate" = "Girar";
+"Clear Section" = "Borrar sección";
+"Generate Copyright" = "Generar derechos de autor";
+"Photographer" = "Fotógrafo";
+"Copyright" = "Derechos de autor";
+"Camera Make" = "Marca de la cámara";
+"Camera Model" = "Modelo de la cámara";
+"Lens Make" = "Marca del objetivo";
+"Lens Model" = "Modelo del objetivo";
+"Lens Serial Number" = "Número de serie del objetivo";
+"Lens Specification" = "Especificación del objetivo";
+"Camera Serial Number" = "Número de serie de la cámara";
+"Camera Firmware" = "Firmware de la cámara";
+"Camera Owner Name" = "Nombre del propietario de la cámara";
+"Manufacturer" = "Fabricante";
+"Name" = "Nombre";
+"Film Type" = "Tipo de carrete";
+"Format" = "Formato";
+"ISO" = "ISO";
+"DX Code" = "Código DX";
+"Film Batch" = "Lote del carrete";
+"Emulsion Number" = "Número de emulsión";
+"Base" = "Base";
+"Film Grain" = "Grano";
+
+/* File */
+"File Source" = "Origen del archivo";
+"Is Film Photo" = "¿Es una foto de carrete?";
+"Others" = "Otros";
+"Film Scanner" = "Escáner de carrete";
+"Reflection Print Scanner" = "Escáner de reflexión";
+"Digital Still Camera" = "Cámara digital";
+"Yes" = "Sí";
+"No" = "No";
+
+/* Roll */
+"Roll ID" = "ID del carrete";
+"Frame Number" = "Número de toma";
+"Exposure ISO" = "ISO de exposición";
+"Total Frame Count" = "Número total de tomas";
+"Loaded Date" = "Fecha de carga";
+"Finished Date" = "Fecha de finalización";
+"Development Batch" = "Lote de revelado";
+
+/* Development */
+"Process" = "Proceso";
+"Developer" = "Revelador";
+"Developer Manufacturer" = "Marca del revelador";
+"Developer Dilution" = "Dilución del revelador";
+"Development Time" = "Fecha de revelado";
+"Development Duration" = "Duración del revelado";
+"Development Temperature" = "Temperatura de revelado";
+"Push/Pull" = "Push/Pull";
+"Bleach" = "Blanqueador";
+"Fixer" = "Fijador";
+"Stabilizer" = "Estabilizador";
+"Replenishment" = "Reposición";
+"Chemistry Notes" = "Notas de química";
+
+/* Lab */
+"Lab Name" = "Nombre del laboratorio";
+"Lab Address" = "Dirección del laboratorio";
+"Lab Contact" = "Contacto del laboratorio";
+"Lab Notes" = "Notas del laboratorio";
+
+/* Scanning */
+"Scanner Make" = "Marca del escáner";
+"Scanner Model" = "Modelo del escáner";
+"Scanner Serial Number" = "Número de serie del escáner";
+"Scanner Software" = "Software del escáner";
+"Scan Resolution" = "Resolución de escaneo";
+"Bit Depth" = "Profundidad de bits";
+"Color Space" = "Espacio de color";
+"Scan Type" = "Tipo de escaneo";
+"Scan Date" = "Fecha de escaneo";
+"Dust Removal" = "Eliminación de polvo";
+"Infrared Cleaning" = "Limpieza infrarroja";
+"Scan Notes" = "Notas de escaneo";
+
+/* Section / group titles */
+"Basics" = "Básicos";
+"File" = "Archivo";
+"Photographer & Copyright" = "Fotógrafo y derechos de autor";
+"Camera & Lens" = "Cámara y objetivo";
+"Film" = "Carrete";
+"Film ISO" = "ISO del carrete";
+"Roll" = "Rollo";
+"Development" = "Revelado";
+"Lab" = "Laboratorio";
+"Scanning" = "Escaneo";
+"Notes" = "Notas";
+"Custom Fields" = "Campos personalizados";
+
+/* Map picker */
+"Click the map to drop a pin" = "Haz clic en el mapa para colocar un pin";
+"Clear Pin" = "Quitar pin";
+"Use Current Location" = "Usar ubicación actual";
+"Zoom In" = "Acercar";
+"Zoom Out" = "Alejar";
+"Search for a place" = "Buscar un lugar";
+"No matching place found." = "No se encontró ningún lugar coincidente.";
+
+/* Raw EXIF */
+"Raw EXIF" = "EXIF sin procesar";
+"Editing here writes directly to the file. Values that can't be parsed back into a valid tag may be ignored." = "Editar aquí escribe directamente en el archivo. Los valores que no puedan convertirse en una etiqueta válida podrían ignorarse.";
+"No raw EXIF/TIFF metadata found in this file." = "No se encontraron metadatos EXIF/TIFF sin procesar en este archivo.";
+"Not editable here" = "No editable aquí";
+
+
+/* Presets */
+"Presets" = "Preajustes";
+"No presets yet" = "Aún no hay preajustes";
+"Manage Presets" = "Gestionar preajustes";
+"Preset name" = "Nombre del preajuste";
+"Untitled Preset" = "Preajuste sin título";
+"Double-click to rename" = "Doble clic para renombrar";
+"Copy Current Values" = "Copiar valores actuales";
+"No fields added yet" = "Aún no se han añadido campos";
+"Key" = "Clave";
+"Value" = "Valor";
+"Custom Field" = "Campo personalizado";
+"Select a preset to edit" = "Selecciona un preajuste para editarlo";
+"or create a new one with the + button" = "o crea uno nuevo con el botón +";
+"Clear rating" = "Borrar valoración";
+"New Camera" = "Nueva cámara";
+"New Lens" = "Nuevo objetivo";
+"New Film" = "Nuevo carrete";
+"New Development" = "Nuevo revelado";
+"New Lab" = "Nuevo laboratorio";
+"New Scanning" = "Nuevo escaneo";
+"New Photographer" = "Nuevo fotógrafo";
+"New Shooting Parameters" = "Nuevos parámetros de disparo";
+
+/* Preset categories */
+"Camera Body" = "Cuerpo de la cámara";
+"Lens" = "Objetivo";
+"Shooting Parameters" = "Parámetros de disparo";
+
+/* Settings */
+"General" = "General";
+"Lab Information" = "Información del laboratorio";
+"Saving" = "Guardado";
+"Fields" = "Campos";
+"Reset to Default" = "Restablecer valores predeterminados";
+"Choose which properties appear in the editor. Hiding a field never changes its stored value." = "Elige qué propiedades aparecen en el editor. Ocultar un campo no cambia su valor guardado.";
+"Appearance" = "Apariencia";
+"Display Mode" = "Modo de visualización";
+"System" = "Sistema";
+"Light" = "Claro";
+"Dark" = "Oscuro";
+"Thumbnail Size" = "Tamaño de miniatura";
+"Small" = "Pequeño";
+"Medium" = "Mediano";
+"Large" = "Grande";
+"Language" = "Idioma";
+"Changing language requires restarting EZ Exif." = "Cambiar el idioma requiere reiniciar EZ Exif.";
+"Restart Required" = "Reinicio necesario";
+"Restart Now" = "Reiniciar ahora";
+"Later" = "Más tarde";
+"EZ Exif needs to restart for the new language to take effect." = "EZ Exif necesita reiniciarse para que el nuevo idioma tenga efecto.";
+"Defaults" = "Valores predeterminados";
+"Apply the following fields to new imports" = "Aplicar los siguientes campos a las nuevas importaciones";
+"Camera" = "Cámara";
+"None" = "Ninguno";
+"Safety" = "Seguridad";
+"Warn before quitting with unsaved changes" = "Avisar antes de salir con cambios sin guardar";
+"Unsaved Changes" = "Cambios sin guardar";
+"Some photos have unsaved metadata changes. Quit anyway?" = "Algunas fotos tienen cambios de metadatos sin guardar. ¿Salir de todos modos?";
+"Quit Anyway" = "Salir de todos modos";
+"Image Quality" = "Calidad de imagen";
+"Image Save Quality" = "Calidad de guardado de imagen";
+"Applies to JPEG and HEIC. TIFF and PNG are lossless and always saved at full quality." = "Se aplica a JPEG y HEIC. TIFF y PNG son formatos sin pérdida y siempre se guardan con calidad completa.";
+"Low" = "Baja";
+"High" = "Alta";
+"Backups" = "Copias de seguridad";
+"Generate backup files .bak when saving" = "Generar archivos de copia de seguridad .bak al guardar";
+"Save Location" = "Ubicación de guardado";
+"Overwrite the original file" = "Sobrescribir el archivo original";
+"Save a copy to a folder" = "Guardar una copia en una carpeta";
+"No folder chosen" = "Ninguna carpeta seleccionada";
+
+/* Errors */
+"Could not open the image file." = "No se pudo abrir el archivo de imagen.";
+"Could not create an output file." = "No se pudo crear el archivo de salida.";
+"Could not decode the image data." = "No se pudieron decodificar los datos de la imagen.";
+"Could not write metadata back to the file." = "No se pudieron escribir los metadatos en el archivo.";
+"Fix the highlighted fields before saving." = "Corrige los campos resaltados antes de guardar.";
+
+/* Field option values */
+"FilmType_ColorNegative" = "Negativo color";
+"FilmType_ColorReversal" = "Reversible color";
+"FilmType_BWNegative" = "Negativo B/N";
+"FilmType_BWReversal" = "Reversible B/N";
+"FilmType_Instant" = "Instantánea";
+
+"PushPull_Standard" = "Estándar";
+
+"ExposureProgram_Manual" = "Manual";
+"ExposureProgram_ProgramAE" = "AE programado";
+"ExposureProgram_AperturePriority" = "Prioridad de apertura";
+"ExposureProgram_ShutterPriority" = "Prioridad de obturador";
+"ExposureProgram_Creative" = "Creativo";
+"ExposureProgram_Action" = "Acción";
+"ExposureProgram_Portrait" = "Retrato";
+"ExposureProgram_Landscape" = "Paisaje";
+"ExposureProgram_Bulb" = "Bulb (B)";
+
+"WhiteBalance_Auto" = "Automático";
+"WhiteBalance_Manual" = "Manual";
+
+"MeteringMode_Average" = "Promedio";
+"MeteringMode_CenterWeighted" = "Promedio ponderado al centro";
+"MeteringMode_Spot" = "Puntual";
+"MeteringMode_MultiSpot" = "Multipunto";
+"MeteringMode_Pattern" = "Matricial";
+"MeteringMode_Partial" = "Parcial";
+
+"FileSource_Others" = "Otros";
+"FileSource_FilmScanner" = "Escáner de película";
+"FileSource_ReflectionScanner" = "Escáner de reflexión";
+"FileSource_DigitalStillCamera" = "Cámara digital";
+
+"FilmPhoto_Yes" = "Sí";
+"FilmPhoto_No" = "No";
+
+/* Help window */
+"EZ Exif Help" = "Ayuda de EZ Exif";
+"A guide to editing metadata on scanned film photos." = "Una guía para editar los metadatos de fotos de película escaneadas.";
+"Getting Started" = "Primeros pasos";
+"**Open** (⌘O) a photo, or drag files or a whole folder onto the window. A dragged/imported folder's photos are grouped into a folder in the sidebar, subfolders and all — expand a subfolder to see (and load) what's inside it." = "**Abre** (⌘O) una foto, o arrastra archivos o una carpeta completa a la ventana. Las fotos de una carpeta arrastrada/importada se agrupan en una carpeta de la barra lateral, subcarpetas incluidas — despliega una subcarpeta para ver (y cargar) lo que contiene.";
+"Select one photo to edit its fields individually, or select several to edit shared fields across all of them at once." = "Selecciona una foto para editar sus campos individualmente, o selecciona varias para editar a la vez los campos que comparten.";
+"Right-click a photo (or a whole folder) in the sidebar to remove it from the list or reload it from disk — a folder's menu acts on every photo inside it, including its subfolders." = "Haz clic derecho en una foto (o en una carpeta completa) de la barra lateral para quitarla de la lista o volver a cargarla desde el disco — el menú de una carpeta actúa sobre todas las fotos que contiene, incluidas las de sus subcarpetas.";
+"Supported formats: JPEG, TIFF, PNG, and HEIC." = "Formatos compatibles: JPEG, TIFF, PNG y HEIC.";
+"Editing Fields" = "Edición de campos";
+"Fields are grouped into sections — Basics, File, Photographer & Copyright, Camera & Lens, Film, Roll, Development, Lab, Scanning, and Notes. See the Field Reference below for what each one means." = "Los campos se agrupan en secciones: Básicos, Archivo, Fotógrafo y derechos de autor, Cámara y objetivo, Película, Rollo, Revelado, Laboratorio, Escaneo y Notas. Consulta la referencia de campos más abajo para ver qué significa cada uno.";
+"Each section header has a “×” button that clears every field **currently shown** in that section — a field you've hidden is never touched." = "Cada encabezado de sección tiene un botón “×” que borra todos los campos **que se muestran actualmente** en esa sección; un campo que hayas ocultado nunca se toca.";
+"Setting **File Source** to “Digital Still Camera” disables Scanning; setting **Is Film Photo** to “No” disables Film, Roll, Development, and Lab — since those stop being relevant." = "Establecer **Origen del archivo** en “Cámara digital” desactiva Escaneo; establecer **¿Es una foto de carrete?** en “No” desactiva Película, Rollo, Revelado y Laboratorio, ya que dejan de ser relevantes.";
+"An orange dot next to a field (or a photo's thumbnail) means it has unsaved changes." = "Un punto naranja junto a un campo (o a la miniatura de una foto) indica que tiene cambios sin guardar.";
+"With several photos selected, a field left blank shows the value they all already share as a placeholder — type over it to set that value for the whole selection, or leave it as-is to keep each photo's own." = "Con varias fotos seleccionadas, un campo dejado en blanco muestra como marcador de posición el valor que todas ya comparten — escribe sobre él para aplicar ese valor a toda la selección, o déjalo tal cual para conservar el valor propio de cada foto.";
+"The rotate button (⟳) above the sidebar preview turns the selected photo 90° at a time without touching its pixel data, the same lossless rotation any photo viewer uses — an orange dot appears next to it until saved, and it's covered by Undo/Revert like any other edit." = "El botón de girar (⟳) encima de la vista previa de la barra lateral gira la foto seleccionada 90° cada vez, sin tocar sus datos de píxeles — el mismo giro sin pérdida que usa cualquier visor de fotos. Aparece un punto naranja junto a él hasta que se guarda, y queda cubierto por Deshacer/Revertir como cualquier otro cambio.";
+"The Location map picker has zoom buttons and a place search box, alongside the usual click-to-drop-pin and “Use Current Location.”" = "El selector de mapa de Ubicación tiene botones de zoom y un cuadro de búsqueda de lugares, además de las funciones habituales de hacer clic para colocar un pin y “Usar ubicación actual”.";
+"Customizing What You See" = "Personalizar lo que se muestra";
+"Settings → Fields lets you show or hide any field — hiding one never changes its stored value, it just declutters the editor." = "Ajustes → Campos te permite mostrar u ocultar cualquier campo; ocultarlo nunca cambia su valor guardado, solo simplifica el editor.";
+"Development Temperature and Aperture each have their own display-format toggle (°C/°F; plain number vs. “f/2.8”) right next to their visibility switch." = "Temperatura de revelado y Apertura tienen cada uno su propio interruptor de formato de visualización (°C/°F; número simple frente a “f/2.8”), justo al lado de su interruptor de visibilidad.";
+"Presets" = "Preajustes";
+"Save reusable Photographer, Shooting Parameters, Camera, Lens, Film, Development, Lab, or Scanning presets from the panel on the right (toggle it with the sidebar icon in the toolbar), and apply one with a single click." = "Guarda preajustes reutilizables de Fotógrafo, Parámetros de disparo, Cámara, Objetivo, Película, Revelado, Laboratorio o Escaneo desde el panel de la derecha (actívalo con el icono de la barra lateral en la barra de herramientas), y aplícalos con un solo clic.";
+"Right-click a preset in Settings → Presets to rename or delete it." = "Haz clic derecho en un preajuste en Ajustes → Preajustes para cambiarle el nombre o eliminarlo.";
+"A Shooting Parameters preset covers ISO, Aperture, Shutter Speed, Exposure Bias, Exposure Program, White Balance, and Metering Mode by default; 35mm Equivalent Focal Length can be added to it as well." = "Un preajuste de Parámetros de disparo cubre ISO, Apertura, Velocidad de obturación, Compensación de exposición, Modo de exposición, Balance de blancos y Modo de medición de forma predeterminada; también se puede añadir la Distancia focal equivalente a 35 mm.";
+"Choosing a Film preset's Manufacturer and Name from the built-in film stock database automatically fills in Film Type, Film ISO, and Process." = "Al elegir el Fabricante y el Nombre de un preajuste de Película desde la base de datos incorporada, se completan automáticamente el Tipo de película, el ISO de película y el Proceso.";
+"Applying a preset skips any field whose section is currently disabled (see File Source/Is Film Photo above), the same as if you'd typed into it by hand." = "Al aplicar un preajuste se omite cualquier campo cuya sección esté desactivada en ese momento (ver Origen del archivo/¿Es una foto de carrete? más arriba), igual que si lo hubieras escrito a mano.";
+"Settings → General → Defaults can apply a Shooting Parameters, Camera, Lens, or Film preset to every new import automatically — each one (and Photographer/Copyright) has its own on/off switch, and a preset only lands if every field it covers is still empty, so real EXIF data already in a file is never overwritten." = "Ajustes → General → Valores predeterminados puede aplicar automáticamente un preajuste de Parámetros de disparo, Cámara, Objetivo o Película a cada nueva importación — cada uno (y Fotógrafo/Derechos de autor) tiene su propio interruptor, y un preajuste solo se aplica si todos los campos que cubre siguen vacíos, así que los datos EXIF reales que ya tenga un archivo nunca se sobrescriben.";
+"Saving" = "Guardado";
+"**Save** (⌘S) writes one photo's metadata back into the file itself. **Save All** (toolbar) does the same for every photo with unsaved changes." = "**Guardar** (⌘S) escribe los metadatos de una foto de vuelta en el propio archivo. **Guardar todo** (barra de herramientas) hace lo mismo con todas las fotos que tengan cambios sin guardar.";
+"Settings → Saving keeps a `.bak` backup of the original before overwriting it by default (toggle it off there), or can save edited copies to a separate folder instead of touching the originals." = "De forma predeterminada, Ajustes → Guardado conserva una copia de seguridad `.bak` del original antes de sobrescribirlo (puedes desactivarlo ahí), o puede guardar copias editadas en una carpeta aparte sin tocar los originales.";
+"Settings → Saving also has an Image Save Quality slider (Low to High, 7 steps) — every save re-encodes the image, so a lower step trades some quality for a smaller file, while the default (High) stays as close to the original as a re-encode can get. Only matters for lossy formats (JPEG, HEIC); TIFF and PNG ignore it since they're lossless." = "Ajustes → Guardado también tiene un control deslizante de Calidad de guardado de imagen (de Baja a Alta, 7 niveles) — cada guardado vuelve a codificar la imagen, así que un nivel más bajo cambia algo de calidad por un archivo más pequeño, mientras que el valor predeterminado (Alta) se mantiene lo más cercano posible al original que permite una recodificación. Solo importa en formatos con pérdida (JPEG, HEIC); TIFF y PNG lo ignoran porque son formatos sin pérdida.";
+"**Undo** (⌘Z) steps back one field-edit at a time; applying a preset or using Revert counts as a single undo step." = "**Deshacer** (⌘Z) retrocede un cambio de campo a la vez; aplicar un preajuste o usar Revertir cuenta como un solo paso de deshacer.";
+"Compatibility" = "Compatibilidad";
+"Camera, lens, and capture info are mirrored into standard EXIF tags any photo app can read." = "La información de cámara, objetivo y captura se refleja en etiquetas EXIF estándar que cualquier aplicación de fotos puede leer.";
+"Film-specific fields (stock, development, lab, scanner) are also mirrored into the original AnalogExif namespace, so AnalogExif-aware tools can read them too." = "Los campos específicos de película (tipo de película, revelado, laboratorio, escáner) también se reflejan en el espacio de nombres original de AnalogExif, para que las herramientas compatibles con AnalogExif también puedan leerlos.";
+"Opening a file already tagged by AnalogExif, a RetroExif-style tool, or Microsoft's lens-info schema is supported — their data shows up instead of appearing blank." = "Se admite abrir un archivo ya etiquetado por AnalogExif, una herramienta al estilo RetroExif, o el esquema de información de objetivo de Microsoft: sus datos aparecen en lugar de mostrarse en blanco.";
+"Field Reference" = "Referencia de campos";
+"What every editable field means, grouped the same way the editor groups them." = "Qué significa cada campo editable, agrupados igual que en el editor.";
+"The ISO the shot was actually exposed at (standard EXIF) — can differ from the film's own box speed if pushed or pulled." = "El ISO al que realmente se expuso la toma (EXIF estándar); puede diferir de la sensibilidad nominal de la película si se hizo push o pull.";
+"The f-stop the lens was set to." = "El valor de apertura (f) al que estaba ajustado el objetivo.";
+"The exposure time, e.g. “1/125 s”." = "El tiempo de exposición, p. ej. “1/125 s”.";
+"Exposure compensation applied, in EV." = "La compensación de exposición aplicada, en EV.";
+"The lens's focal length for this shot." = "La distancia focal del objetivo para esta toma.";
+"The focal length re-expressed as its 35mm/full-frame equivalent — hidden by default." = "La distancia focal expresada como su equivalente en formato 35 mm/fotograma completo; oculto de forma predeterminada.";
+"The camera's exposure mode (Manual, Aperture Priority, etc.)." = "El modo de exposición de la cámara (Manual, Prioridad de apertura, etc.).";
+"Auto or Manual white balance." = "Balance de blancos automático o manual.";
+"How the camera measured exposure (Spot, Pattern, etc.)." = "Cómo midió la exposición la cámara (Puntual, Matricial, etc.).";
+"The date and time the photo was taken." = "La fecha y hora en que se tomó la foto.";
+"GPS latitude/longitude of where the photo was taken." = "Latitud/longitud GPS de dónde se tomó la foto.";
+"GPS altitude, in meters." = "Altitud GPS, en metros.";
+"A 0–5 star rating for the photo." = "Una valoración de 0 a 5 estrellas para la foto.";
+"The standard EXIF “FileSource” tag — Film Scanner, Reflection Print Scanner, Digital Still Camera, or Others." = "La etiqueta EXIF estándar “FileSource”: Escáner de película, Escáner de reflexión, Cámara digital u Otros.";
+"Whether the original scene was captured on film at all — independent of File Source, since a digital camera can still be photographing a film print or negative." = "Si la escena original se capturó en película o no; es independiente del Origen del archivo, ya que una cámara digital puede estar fotografiando una copia o un negativo de película.";
+"The photographer's name." = "El nombre del fotógrafo.";
+"A copyright notice for the photo." = "Un aviso de derechos de autor para la foto.";
+"The camera's manufacturer." = "El fabricante de la cámara.";
+"The camera's model." = "El modelo de la cámara.";
+"The camera body's serial number." = "El número de serie del cuerpo de la cámara.";
+"The camera's firmware version." = "La versión de firmware de la cámara.";
+"The camera's registered owner." = "El propietario registrado de la cámara.";
+"The lens's manufacturer." = "El fabricante del objetivo.";
+"The lens's model." = "El modelo del objetivo.";
+"The lens's serial number." = "El número de serie del objetivo.";
+"The lens's focal length and aperture range, e.g. “24-70mm f/2.8”." = "El rango de distancia focal y apertura del objetivo, p. ej. “24-70mm f/2.8”.";
+"The film stock's manufacturer, e.g. Kodak." = "El fabricante de la película, p. ej. Kodak.";
+"The film stock's name, e.g. Portra 400." = "El nombre de la película, p. ej. Portra 400.";
+"The film's color/process type (Color Negative, Black & White, etc.) — distinct from Format." = "El tipo de color/proceso de la película (Negativo color, Blanco y negro, etc.), distinto del Formato.";
+"The film's physical size, e.g. 35, 120, 4x5." = "El tamaño físico de la película, p. ej. 35, 120, 4x5.";
+"The film stock's own box speed — distinct from “ISO” in Basics, which is what it was actually shot at." = "La sensibilidad nominal propia de la película (la de la caja), distinta del “ISO” de Básicos, que es al que realmente se disparó.";
+"The film's DX barcode identifier." = "El identificador de código de barras DX de la película.";
+"The manufacturing batch/lot the film came from." = "El lote de fabricación del que procede la película.";
+"The specific emulsion run number." = "El número de lote de emulsión específico.";
+"The film base material, e.g. polyester, acetate." = "El material de la base de la película, p. ej. poliéster, acetato.";
+"Notes on the film's grain characteristics." = "Notas sobre las características de grano de la película.";
+"An identifier for this specific roll of film." = "Un identificador para este rollo de película en concreto.";
+"This photo's position within the roll." = "La posición de esta foto dentro del rollo.";
+"How many frames the whole roll holds, e.g. 36." = "Cuántos fotogramas tiene el rollo completo, p. ej. 36.";
+"The ISO the roll was actually metered/shot at, if different from the film's box speed — e.g. a box-400 film shot at 800." = "El ISO al que realmente se midió/disparó el rollo, si es diferente de la sensibilidad nominal de la película, p. ej. una película de 400 disparada a 800.";
+"When the roll was loaded into the camera." = "Cuándo se cargó el rollo en la cámara.";
+"When the last frame was shot or the roll was rewound." = "Cuándo se disparó el último fotograma o se rebobinó el rollo.";
+"An identifier tying this roll to a specific development session." = "Un identificador que vincula este rollo a una sesión de revelado concreta.";
+"The chemical process used, e.g. C-41, E-6, B&W." = "El proceso químico utilizado, p. ej. C-41, E-6, B/N.";
+"The developer chemical used." = "El revelador químico utilizado.";
+"The developer's manufacturer." = "El fabricante del revelador.";
+"The dilution ratio used, e.g. 1+1." = "La proporción de dilución utilizada, p. ej. 1+1.";
+"When the roll was developed." = "Cuándo se reveló el rollo.";
+"How long development took." = "Cuánto duró el revelado.";
+"The temperature development was carried out at." = "La temperatura a la que se realizó el revelado.";
+"Stops pushed (+) or pulled (−) from box speed; “Standard” means none." = "Los pasos de push (+) o pull (−) respecto a la sensibilidad nominal; “Estándar” significa ninguno.";
+"Notes on the bleach step, for processes that use one (e.g. C-41)." = "Notas sobre el paso de blanqueo, para procesos que lo incluyen (p. ej. C-41).";
+"The fixer chemical used." = "El fijador químico utilizado.";
+"The stabilizer/final-rinse chemical used." = "El estabilizador/baño final químico utilizado.";
+"Notes on chemistry replenishment." = "Notas sobre la reposición de químicos.";
+"Any other notes about the chemistry used." = "Cualquier otra nota sobre los químicos utilizados.";
+"The name of the lab that processed or scanned the film." = "El nombre del laboratorio que procesó o escaneó la película.";
+"The lab's address." = "La dirección del laboratorio.";
+"Contact info for the lab." = "La información de contacto del laboratorio.";
+"Any other notes about the lab." = "Cualquier otra nota sobre el laboratorio.";
+"The scanner's manufacturer." = "El fabricante del escáner.";
+"The scanner's model." = "El modelo del escáner.";
+"The scanner's serial number." = "El número de serie del escáner.";
+"The software used to drive the scan." = "El software utilizado para controlar el escaneo.";
+"The resolution the film was scanned at, e.g. 4000 dpi." = "La resolución a la que se escaneó la película, p. ej. 4000 ppp.";
+"The color bit depth of the scan." = "La profundidad de color en bits del escaneo.";
+"The color space the scan was saved in." = "El espacio de color en el que se guardó el escaneo.";
+"Whether the scan is of a positive, negative, or print." = "Si el escaneo es de un positivo, un negativo o una copia impresa.";
+"When the scan was made." = "Cuándo se hizo el escaneo.";
+"Whether automated dust removal was applied." = "Si se aplicó eliminación automática de polvo.";
+"Whether infrared-based defect cleaning was applied." = "Si se aplicó limpieza de defectos basada en infrarrojos.";
+"Any other notes about the scan." = "Cualquier otra nota sobre el escaneo.";
+"Freeform notes about the photo, not tied to any other specific field." = "Notas libres sobre la foto, no vinculadas a ningún otro campo específico.";
+"Keyboard Shortcuts" = "Atajos de teclado";
+"Open photos or a folder" = "Abrir fotos o una carpeta";
+"Import a folder specifically" = "Importar específicamente una carpeta";
+"Save the selected photo(s)" = "Guardar la(s) foto(s) seleccionada(s)";
+"Undo the last field edit" = "Deshacer la última edición de campo";
+"Open Settings" = "Abrir Ajustes";
+
+/* Menu titles built around the app's name */
+"About %@" = "Acerca de %@";
+"%@ Help" = "Ayuda de %@";
+
+/* Development Process options */
+"Process_C41" = "C-41";
+"Process_E6" = "E-6";
+"Process_BW" = "B/N";
+"Process_ECN2" = "ECN-2";

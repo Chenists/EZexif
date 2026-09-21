@@ -1,0 +1,302 @@
+/* App / toolbar */
+"Open Photos" = "Open Photos";
+"Save Metadata" = "Save Metadata";
+"Open" = "Open";
+"Import Folder" = "Import Folder";
+"Save All" = "Save All";
+"Settings" = "Settings";
+"Toggle Presets Panel" = "Toggle Presets Panel";
+
+/* Generic actions */
+"Cancel" = "Cancel";
+"Apply" = "Apply";
+"Done" = "Done";
+"Save" = "Save";
+"Edit" = "Edit";
+"Delete" = "Delete";
+"Rename" = "Rename";
+"Add" = "Add";
+"Close" = "Close";
+"Reload" = "Reload";
+"Undo" = "Undo";
+"Revert" = "Revert";
+"Clear" = "Clear";
+"Choose" = "Choose";
+"Set Time" = "Set Time";
+
+/* Main window */
+"Open or drop photos or folders to edit their metadata" = "Open or drop photos or folders to edit their metadata";
+"Unsaved changes" = "Unsaved changes";
+"Open in Preview" = "Open in Preview";
+"Remove from list" = "Remove from list";
+
+/* Batch editor / auto-number */
+"Auto Frame Numbers" = "Auto Frame Numbers";
+"Start at" = "Start at";
+"Apply to Selection" = "Apply to Selection";
+"Apply & Save All" = "Apply & Save All";
+"Order by" = "Order by";
+"Direction" = "Direction";
+"Ascending" = "Ascending";
+"Descending" = "Descending";
+"Preview" = "Preview";
+"File Name" = "File Name";
+"Capture Time" = "Capture Time";
+
+/* Field labels */
+"Aperture" = "Aperture";
+"Shutter Speed" = "Shutter Speed";
+"Exposure Bias" = "Exposure Bias";
+"Exposure Program" = "Exposure Program";
+"White Balance" = "White Balance";
+"Metering Mode" = "Metering Mode";
+"Average" = "Average";
+"Center-Weighted Average" = "Center-Weighted Average";
+"Spot" = "Spot";
+"Multi-Spot" = "Multi-Spot";
+"Pattern" = "Pattern";
+"Partial" = "Partial";
+"Focal Length" = "Focal Length";
+"35mm Equivalent Focal Length" = "35mm Equivalent Focal Length";
+"Location" = "Location";
+"Latitude, Longitude" = "Latitude, Longitude";
+"Altitude" = "Altitude";
+"Rating" = "Rating";
+"Map" = "Map";
+"Clear Location" = "Clear Location";
+"Rotate" = "Rotate";
+"Clear Section" = "Clear Section";
+"Generate Copyright" = "Generate Copyright";
+"Photographer" = "Photographer";
+"Copyright" = "Copyright";
+"Camera Make" = "Camera Make";
+"Camera Model" = "Camera Model";
+"Lens Make" = "Lens Make";
+"Lens Model" = "Lens Model";
+"Lens Serial Number" = "Lens Serial Number";
+"Lens Specification" = "Lens Specification";
+"Camera Serial Number" = "Camera Serial Number";
+"Camera Firmware" = "Camera Firmware";
+"Camera Owner Name" = "Camera Owner Name";
+"Manufacturer" = "Manufacturer";
+"Name" = "Name";
+"Film Type" = "Film Type";
+"Format" = "Format";
+"ISO" = "ISO";
+"DX Code" = "DX Code";
+"Film Batch" = "Film Batch";
+"Emulsion Number" = "Emulsion Number";
+"Base" = "Base";
+"Film Grain" = "Film Grain";
+
+/* File */
+"File Source" = "File Source";
+"Is Film Photo" = "Is Film Photo";
+"Others" = "Others";
+"Film Scanner" = "Film Scanner";
+"Reflection Print Scanner" = "Reflection Print Scanner";
+"Digital Still Camera" = "Digital Still Camera";
+"Yes" = "Yes";
+"No" = "No";
+
+/* Roll */
+"Roll ID" = "Roll ID";
+"Frame Number" = "Frame Number";
+"Exposure ISO" = "Exposure ISO";
+"Total Frame Count" = "Total Frame Count";
+"Loaded Date" = "Loaded Date";
+"Finished Date" = "Finished Date";
+"Development Batch" = "Development Batch";
+
+/* Development */
+"Process" = "Process";
+"Developer" = "Developer";
+"Developer Manufacturer" = "Developer Manufacturer";
+"Developer Dilution" = "Developer Dilution";
+"Development Time" = "Development Time";
+"Development Duration" = "Development Duration";
+"Development Temperature" = "Development Temperature";
+"Push/Pull" = "Push/Pull";
+"Bleach" = "Bleach";
+"Fixer" = "Fixer";
+"Stabilizer" = "Stabilizer";
+"Replenishment" = "Replenishment";
+"Chemistry Notes" = "Chemistry Notes";
+
+/* Lab */
+"Lab Name" = "Lab Name";
+"Lab Address" = "Lab Address";
+"Lab Contact" = "Lab Contact";
+"Lab Notes" = "Lab Notes";
+
+/* Scanning */
+"Scanner Make" = "Scanner Make";
+"Scanner Model" = "Scanner Model";
+"Scanner Serial Number" = "Scanner Serial Number";
+"Scanner Software" = "Scanner Software";
+"Scan Resolution" = "Scan Resolution";
+"Bit Depth" = "Bit Depth";
+"Color Space" = "Color Space";
+"Scan Type" = "Scan Type";
+"Scan Date" = "Scan Date";
+"Dust Removal" = "Dust Removal";
+"Infrared Cleaning" = "Infrared Cleaning";
+"Scan Notes" = "Scan Notes";
+
+/* Section / group titles */
+"Basics" = "Basics";
+"File" = "File";
+"Photographer & Copyright" = "Photographer & Copyright";
+"Camera & Lens" = "Camera & Lens";
+"Film" = "Film";
+"Film ISO" = "Film ISO";
+"Roll" = "Roll";
+"Development" = "Development";
+"Lab" = "Lab";
+"Scanning" = "Scanning";
+"Notes" = "Notes";
+"Custom Fields" = "Custom Fields";
+
+/* Map picker */
+"Click the map to drop a pin" = "Click the map to drop a pin";
+"Clear Pin" = "Clear Pin";
+"Use Current Location" = "Use Current Location";
+"Zoom In" = "Zoom In";
+"Zoom Out" = "Zoom Out";
+"Search for a place" = "Search for a place";
+"No matching place found." = "No matching place found.";
+
+/* Raw EXIF */
+"Raw EXIF" = "Raw EXIF";
+"Editing here writes directly to the file. Values that can't be parsed back into a valid tag may be ignored." = "Editing here writes directly to the file. Values that can't be parsed back into a valid tag may be ignored.";
+"No raw EXIF/TIFF metadata found in this file." = "No raw EXIF/TIFF metadata found in this file.";
+"Not editable here" = "Not editable here";
+
+
+/* Presets */
+"Presets" = "Presets";
+"No presets yet" = "No presets yet";
+"Manage Presets" = "Manage Presets";
+"Preset name" = "Preset name";
+"Untitled Preset" = "Untitled Preset";
+"Double-click to rename" = "Double-click to rename";
+"Copy Current Values" = "Copy Current Values";
+"No fields added yet" = "No fields added yet";
+"Key" = "Key";
+"Value" = "Value";
+"Custom Field" = "Custom Field";
+"Select a preset to edit" = "Select a preset to edit";
+"or create a new one with the + button" = "or create a new one with the + button";
+"Clear rating" = "Clear rating";
+"New Camera" = "New Camera";
+"New Lens" = "New Lens";
+"New Film" = "New Film";
+"New Development" = "New Development";
+"New Lab" = "New Lab";
+"New Scanning" = "New Scanning";
+"New Photographer" = "New Photographer";
+"New Shooting Parameters" = "New Shooting Parameters";
+
+/* Preset categories */
+"Camera Body" = "Camera Body";
+"Lens" = "Lens";
+"Shooting Parameters" = "Shooting Parameters";
+
+/* Settings */
+"General" = "General";
+"Lab Information" = "Lab Information";
+"Saving" = "Saving";
+"Fields" = "Fields";
+"Reset to Default" = "Reset to Default";
+"Choose which properties appear in the editor. Hiding a field never changes its stored value." = "Choose which properties appear in the editor. Hiding a field never changes its stored value.";
+"Appearance" = "Appearance";
+"Display Mode" = "Display Mode";
+"System" = "System";
+"Light" = "Light";
+"Dark" = "Dark";
+"Thumbnail Size" = "Thumbnail Size";
+"Small" = "Small";
+"Medium" = "Medium";
+"Large" = "Large";
+"Language" = "Language";
+"Changing language requires restarting EZ Exif." = "Changing language requires restarting EZ Exif.";
+"Restart Required" = "Restart Required";
+"Restart Now" = "Restart Now";
+"Later" = "Later";
+"EZ Exif needs to restart for the new language to take effect." = "EZ Exif needs to restart for the new language to take effect.";
+"Defaults" = "Defaults";
+"Apply the following fields to new imports" = "Apply the following fields to new imports";
+"Camera" = "Camera";
+"None" = "None";
+"Safety" = "Safety";
+"Warn before quitting with unsaved changes" = "Warn before quitting with unsaved changes";
+"Unsaved Changes" = "Unsaved Changes";
+"Some photos have unsaved metadata changes. Quit anyway?" = "Some photos have unsaved metadata changes. Quit anyway?";
+"Quit Anyway" = "Quit Anyway";
+"Image Quality" = "Image Quality";
+"Image Save Quality" = "Image Save Quality";
+"Applies to JPEG and HEIC. TIFF and PNG are lossless and always saved at full quality." = "Applies to JPEG and HEIC. TIFF and PNG are lossless and always saved at full quality.";
+"Low" = "Low";
+"High" = "High";
+"Backups" = "Backups";
+"Generate backup files .bak when saving" = "Generate backup files .bak when saving";
+"Save Location" = "Save Location";
+"Overwrite the original file" = "Overwrite the original file";
+"Save a copy to a folder" = "Save a copy to a folder";
+"No folder chosen" = "No folder chosen";
+
+/* Errors */
+"Could not open the image file." = "Could not open the image file.";
+"Could not create an output file." = "Could not create an output file.";
+"Could not decode the image data." = "Could not decode the image data.";
+"Could not write metadata back to the file." = "Could not write metadata back to the file.";
+"Fix the highlighted fields before saving." = "Fix the highlighted fields before saving.";
+
+/* Field option values — FieldSuggestions in PresetCategory.swift, keyed
+   separately from their display text since the same English word (e.g.
+   "Manual") can need different translations in different fields. */
+"FilmType_ColorNegative" = "Color Negative";
+"FilmType_ColorReversal" = "Color Reversal";
+"FilmType_BWNegative" = "Black & White Negative";
+"FilmType_BWReversal" = "Black & White Reversal";
+"FilmType_Instant" = "Instant";
+
+"PushPull_Standard" = "Standard";
+
+"ExposureProgram_Manual" = "Manual";
+"ExposureProgram_ProgramAE" = "Program AE";
+"ExposureProgram_AperturePriority" = "Aperture Priority";
+"ExposureProgram_ShutterPriority" = "Shutter Priority";
+"ExposureProgram_Creative" = "Creative";
+"ExposureProgram_Action" = "Action";
+"ExposureProgram_Portrait" = "Portrait";
+"ExposureProgram_Landscape" = "Landscape";
+"ExposureProgram_Bulb" = "Bulb";
+
+"WhiteBalance_Auto" = "Auto";
+"WhiteBalance_Manual" = "Manual";
+
+"MeteringMode_Average" = "Average";
+"MeteringMode_CenterWeighted" = "Center-Weighted Average";
+"MeteringMode_Spot" = "Spot";
+"MeteringMode_MultiSpot" = "Multi-Spot";
+"MeteringMode_Pattern" = "Pattern";
+"MeteringMode_Partial" = "Partial";
+
+"FileSource_Others" = "Others";
+"FileSource_FilmScanner" = "Film Scanner";
+"FileSource_ReflectionScanner" = "Reflection Print Scanner";
+"FileSource_DigitalStillCamera" = "Digital Still Camera";
+
+"FilmPhoto_Yes" = "Yes";
+"FilmPhoto_No" = "No";
+
+/* Menu titles built around the app's name (see FilmExifApp.localizedAppNameTitle) */
+"About %@" = "About %@";
+"%@ Help" = "%@ Help";
+
+/* Development Process options */
+"Process_C41" = "C-41";
+"Process_E6" = "E-6";
+"Process_BW" = "B&W";
+"Process_ECN2" = "ECN-2";
